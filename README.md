@@ -1,6 +1,6 @@
 # NASA APOD
 
-A simple GET endpoint that combines NASA Astrological Photo Of the Day with wikipedia links to help explain the photo.
+A simple GET endpoint that combines NASA Astronomy Photo Of the Day with wikipedia links to help explain the photo.
 
 
 ### Setup
